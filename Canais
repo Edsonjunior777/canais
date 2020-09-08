@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,CANAL ÁREA LIVRE
+CANAL ÁREA LIVRE
 #EXTINF:-1,A&E
 http://kkpapa.xyz/SD_AE/video.m3u8?token=a066ebf2ecc0c049659b6469591c0607
 #EXTINF:-1,A&E HD
