@@ -1,13 +1,11 @@
 #EXTM3U
-#EXTINF:-1, A Fazenda
-https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master.m3u8
-#EXTINF:-1,Globo
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globorj_bc15c774_94c25bdffeb9d7dfe3a2b7e04c44bf8612792383/playlist.m3u8
 #EXTINF:-1,A&E
 http://sv1.nowiptv.net:8880/Jander/Jander123/33177
 #EXTINF:-1,A&E HD
 http://sv1.nowiptv.net:8880/Jander/Jander123/33177
-#EXTINF:-1,AMC 2
-https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/amcbrasil_b7f5113f_10f9b6544db6474c222208970bf0d6e52e29cebc/playlist.m3u8
-#EXTINF:-1,Animal Planet
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/animalplanet_e114c448_c926a0fa0202799a334ec7e7370463c2698c38bb/playlist.m3u8
+#EXTINF:-1,AMC
+http://sv1.nowiptv.net:8880/Jander/Jander123/33169
+#EXTINF:-1,AXN
+http://89.187.173.219:80/iptv708814/79852/6600
+#EXTINF:-1,CINEMAX
+http://89.187.173.219:80/iptv708814/79852/6587
