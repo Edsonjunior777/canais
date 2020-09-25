@@ -4,7 +4,7 @@ https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master.m3u8
 #EXTINF:-1,Globo
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/globorj_bc15c774_94c25bdffeb9d7dfe3a2b7e04c44bf8612792383/playlist.m3u8
 #EXTINF:-1,A&E
-https://streaming.belugacdn.link/hls1/aie.m3u8?expires=1601021424&token=1ce840ece11da96b02f1a2a1a62a02fb
+http://sv1.nowiptv.net:8880/Jander/Jander123/33177
 #EXTINF:-1,AMC 2
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/amcbrasil_b7f5113f_10f9b6544db6474c222208970bf0d6e52e29cebc/playlist.m3u8
 #EXTINF:-1,Animal Planet
