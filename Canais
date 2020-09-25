@@ -3,3 +3,7 @@
 https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master.m3u8
 #EXTINF:-1,A&E
 https://streaming.belugacdn.link/hls1/aie.m3u8?expires=1601021424&token=1ce840ece11da96b02f1a2a1a62a02fb
+#EXTINF:-1,AMC
+https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOAMCHD)/stream_4/init.m4i
+#EXTINF:-1,AMC 2
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/amcbrasil_b7f5113f_10f9b6544db6474c222208970bf0d6e52e29cebc/playlist.m3u8
