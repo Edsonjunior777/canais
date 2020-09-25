@@ -8,7 +8,7 @@ http://sv1.nowiptv.net:8880/Jander/Jander123/33169
 #EXTINF:-1,AXN
 http://sv1.nowiptv.net:8880/Jander/Jander123/33145
 #EXTINF:-1,CINEMAX
-http://89.187.173.219:80/iptv708814/79852/6587
+http://sv1.nowiptv.net:8880/Jander/Jander123/33086
 #EXTINF:-1,FOX
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37101
 #EXTINF:-1,FOX HD
@@ -18,7 +18,9 @@ http://esrv.cc:80/Marcos583/450769/271
 #EXTINF:-1,HBO 2
 http://cdn.ontvhdbr.co:80/uwcftemp/yioszgqj/40763
 #EXTINF:-1,HBO FAMILY
-http://89.187.173.219:80/iptv708814/79852/6533
+http://srvtv.online:2082/FelipecarlosMV1156/3481166712An/3891
+#EXTINF:-1,HBO FAMILY HD
+http://srvtv.online:2082/FelipecarlosMV1156/3481166712An/6981
 #EXTINF:-1,HBO PLUS
 http://89.187.173.219:80/iptv708814/79852/6532
 #EXTINF:-1,MEGAPIX
@@ -31,4 +33,22 @@ http://sv1.nowiptv.net:8880/Jander/Jander123/32445
 http://sv1.nowiptv.net:8880/Jander/Jander123/32437
 #EXTINF:-1,TCM
 http://sv1.nowiptv.net:8880/Jander/Jander123/34012
-#EXTINF:-1,
+#EXTINF:-1,Telecine Action
+http://pfsv.io:80/7784677077/0817/568
+#EXTINF:-1,Telecine Action HD
+http://pfsv.io:80/7784677077/0817/568
+#EXTINF:-1,Telecine Action Full HD
+http://fonteangelusiptv.com:25461/4388472321gustavo/39063812gustavo/178428
+#EXTINF:-1,Telecine Cult
+http://srvx.io:80/0467707740/fireurl.co/72353
+#EXTINF:-1,Telecine Cult HD
+http://fonteangelusiptv.com:25461/4388472321gustavo/39063812gustavo/178434
+#EXTINF:-1,Telecine Fun
+http://us14.server.kpfoxtrot.xyz/HD_TC_FUN/video.m3u8?token=2b52b30dee39331571a0eebfbecf3db0
+#EXTINF:-1,Telecine Fun HD
+http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/51088
+#EXTINF:-1,Telecine Pipoca
+
+
+
+
