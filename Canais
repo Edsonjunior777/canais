@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1, A Fazenda
 https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master.m3u8
-#EXTINF:-1,Globo
+#EXTINF:-1,A&E
 https://streaming.belugacdn.link/hls1/aie.m3u8?expires=1601021424&token=1ce840ece11da96b02f1a2a1a62a02fb
