@@ -71,26 +71,36 @@ http://sv1.nowiptv.net:8880/Jander/Jander123/34012
 http://pfsv.io:80/7784677077/0817/568
 #EXTINF:-1,Telecine Action HD
 http://pfsv.io:80/7784677077/0817/568
-#EXTINF:-1,Telecine Action Full HD
-http://fonteangelusiptv.com:25461/4388472321gustavo/39063812gustavo/178428
+#EXTINF:-1,Telecine Action FHD
+http://srvx.io:80/0467707740/fireurl.co/72346
 #EXTINF:-1,Telecine Cult
 http://srvx.io:80/0467707740/fireurl.co/72353
 #EXTINF:-1,Telecine Cult HD
 http://fonteangelusiptv.com:25461/4388472321gustavo/39063812gustavo/178434
+#EXTINF:-1,Telecine Cult FHD
+http://srvx.io:80/0467707740/fireurl.co/72351
 #EXTINF:-1,Telecine Fun
 http://us14.server.kpfoxtrot.xyz/HD_TC_FUN/video.m3u8?token=2b52b30dee39331571a0eebfbecf3db0
 #EXTINF:-1,Telecine Fun HD
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/51088
+#EXTINF:-1,Telecine Fun FHD
+http://srvx.io:80/0467707740/fireurl.co/72354
 #EXTINF:-1,Telecine Pipoca
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37038
+#EXTINF:-1,Telecine Pipoca FHD
+http://srvx.io:80/0467707740/fireurl.co/72358
 #EXTINF:-1,Telecine Premium
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/36994
 #EXTINF:-1,Telecine Premium HD
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/36936
+#EXTINF:-1,Telecine Premium FHD
+http://srvx.io:80/0467707740/fireurl.co/72362
 #EXTINF:-1,Telecine Touch
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/36995
 #EXTINF:-1,Telecine Touch HD
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/36935
+#EXTINF:-1,Telecine Touch FHD
+http://srvx.io:80/0467707740/fireurl.co/72366
 #EXTINF:-1,Band
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37127
 #EXTINF:-1,Band HD
@@ -159,6 +169,8 @@ http://srvx.io:80/0467707740/fireurl.co/72262
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37256
 #EXTINF:-1,SPORTV 2
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37044
+#EXTINF:-1,SPORTV 2 FHD
+http://srvx.io:80/0467707740/fireurl.co/72321
 #EXTINF:-1,ANIMAL PLANET
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37128
 #EXTINF:-1,ANIMAL PLANET FHD
@@ -237,9 +249,7 @@ http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37336
 http://srvx.io:80/0467707740/fireurl.co/72994
 #EXTINF:-1,CINE SKY
 http://srvx.io:80/0467707740/fireurl.co/73003
-#EXTINF:-1,CINE SKY
 
-#EXTINF:-1,CINE SKY
 
 
 
