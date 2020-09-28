@@ -3,34 +3,68 @@
 http://sv1.nowiptv.net:8880/Jander/Jander123/33177
 #EXTINF:-1,A&E HD
 http://sv1.nowiptv.net:8880/Jander/Jander123/33177
+#EXTINF:-1,A&E FHD
+http://srvx.io:80/0467707740/fireurl.co/71760
 #EXTINF:-1,AMC
 http://sv1.nowiptv.net:8880/Jander/Jander123/33169
+#EXTINF:-1,AMC FHD
+http://srvx.io:80/0467707740/fireurl.co/71768
 #EXTINF:-1,AXN
 http://sv1.nowiptv.net:8880/Jander/Jander123/33145
+#EXTINF:-1,AXN FHD
+http://srvx.io:80/0467707740/fireurl.co/71781
 #EXTINF:-1,CINEMAX
 http://sv1.nowiptv.net:8880/Jander/Jander123/33086
+#EXTINF:-1,CINEMAX FHD
+http://srvx.io:80/0467707740/fireurl.co/71833
 #EXTINF:-1,FOX
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37101
 #EXTINF:-1,FOX HD
 http://esrv.cc:80/Marcos583/450769/162
+#EXTINF:-1,FOX FHD
+http://srvx.io:80/0467707740/fireurl.co/71936
+#EXTINF:-1,FX FHD
+http://srvx.io:80/0467707740/fireurl.co/71966
 #EXTINF:-1,HBO
 http://esrv.cc:80/Marcos583/450769/271
+#EXTINF:-1,HBO FHD
+http://srvx.io:80/0467707740/fireurl.co/72118
 #EXTINF:-1,HBO 2
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/36966
+#EXTINF:-1,HBO 2 FHD
+http://srvx.io:80/0467707740/fireurl.co/72110
 #EXTINF:-1,HBO FAMILY
 http://srvtv.online:2082/FelipecarlosMV1156/3481166712An/3891
 #EXTINF:-1,HBO FAMILY HD
 http://srvtv.online:2082/FelipecarlosMV1156/3481166712An/6981
+#EXTINF:-1,HBO FAMILY FHD
+http://srvx.io:80/0467707740/fireurl.co/72114
 #EXTINF:-1,HBO PLUS
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/36963
+#EXTINF:-1,HBO PLUS FHD
+http://srvx.io:80/0467707740/fireurl.co/72125
+#EXTINF:-1,HBO MUNDI FHD
+http://srvx.io:80/0467707740/fireurl.co/72121
+#EXTINF:-1,HBO POP FHD
+http://srvx.io:80/0467707740/fireurl.co/72129
+#EXTINF:-1,HBO SIGNATURE FHD
+http://srvx.io:80/0467707740/fireurl.co/72134
 #EXTINF:-1,MEGAPIX
 http://sv1.nowiptv.net:8880/Jander/Jander123/32667
+#EXTINF:-1,MEGAPIX FHD
+http://srvx.io:80/0467707740/fireurl.co/72166
 #EXTINF:-1,SPACE
 http://sv1.nowiptv.net:8880/Jander/Jander123/32475
+#EXTINF:-1,SPACE FHD
+http://srvx.io:80/0467707740/fireurl.co/72317
 #EXTINF:-1,STUDIO UNIVERSAL
 http://sv1.nowiptv.net:8880/Jander/Jander123/32445
+#EXTINF:-1,STUDIO UNIVERSAL FHD
+http://srvx.io:80/0467707740/fireurl.co/72334
 #EXTINF:-1,SYFY
 http://sv1.nowiptv.net:8880/Jander/Jander123/32437
+#EXTINF:-1,SYFY FHD
+http://srvx.io:80/0467707740/fireurl.co/72338
 #EXTINF:-1,TCM
 http://sv1.nowiptv.net:8880/Jander/Jander123/34012
 #EXTINF:-1,Telecine Action
@@ -61,6 +95,8 @@ http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/36935
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37127
 #EXTINF:-1,Band HD
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/36990
+#EXTINF:-1,Band FHD
+http://srvx.io:80/0467707740/fireurl.co/71796
 #EXTINF:-1,Globo RJ
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37091
 #EXTINF:-1,Globo SP
@@ -69,48 +105,90 @@ http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37090
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37051
 #EXTINF:-1,REDE tv
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/36946
+#EXTINF:-1,REDE tv FHD
+http://srvx.io:80/0467707740/fireurl.co/72297
 #EXTINF:-1,SBT
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/36945
+#EXTINF:-1,SBT FHD
+http://srvx.io:80/0467707740/fireurl.co/72307
 #EXTINF:-1,DAZN
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/58130
 #EXTINF:-1,ESPN
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37105
 #EXTINF:-1,ESPN 2
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/62745
+#EXTINF:-1,ESPN 2 FHD
+http://srvx.io:80/0467707740/fireurl.co/71907
 #EXTINF:-1,ESPN BRASIL
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37104
 #EXTINF:-1,ESPN BRASIL HD
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/73051
+#EXTINF:-1,ESPN BRASIL FHD
+http://srvx.io:80/0467707740/fireurl.co/71911
+#EXTINF:-1,ESPN EXTRA FHD
+http://srvx.io:80/0467707740/fireurl.co/71915
 #EXTINF:-1,FOX SPORTS 1
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37099
+#EXTINF:-1,FOX SPORTS 1 HD
+http://srvx.io:80/0467707740/fireurl.co/71943
+#EXTINF:-1,FOX SPORTS 1 FHD
+http://srvx.io:80/0467707740/fireurl.co/71958
 #EXTINF:-1,FOX SPORTS 2
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37098
+#EXTINF:-1,FOX SPORTS 2 HD
+http://srvx.io:80/0467707740/fireurl.co/71947
+#EXTINF:-1,FOX SPORTS 2 FHD
+http://srvx.io:80/0467707740/fireurl.co/71952
 #EXTINF:-1,PREMIERE 2
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37060
+#EXTINF:-1,PREMIERE 2 FHD
+http://srvx.io:80/0467707740/fireurl.co/72237
 #EXTINF:-1,PREMIERE 3
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/36951
+#EXTINF:-1,PREMIERE 3 FHD
+http://srvx.io:80/0467707740/fireurl.co/72241
 #EXTINF:-1,PREMIERE 4
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/36950
+#EXTINF:-1,PREMIERE 4 FHD
+http://srvx.io:80/0467707740/fireurl.co/72245
 #EXTINF:-1,PREMIERE CLUBES
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37016
+#EXTINF:-1,PREMIERE CLUBES FHD
+http://srvx.io:80/0467707740/fireurl.co/72262
 #EXTINF:-1,SPORTV
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37256
 #EXTINF:-1,SPORTV 2
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37044
 #EXTINF:-1,ANIMAL PLANET
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37128
+#EXTINF:-1,ANIMAL PLANET FHD
+http://srvx.io:80/0467707740/fireurl.co/71772
 #EXTINF:-1,DISCOVERY CHANNEL
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37116
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://srvx.io:80/0467707740/fireurl.co/71862
 #EXTINF:-1,DISCOVERY TURBO
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37112
 #EXTINF:-1,DISCOVERY WORLD
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/64498
+#EXTINF:-1,DISCOVERY WORLD FHD
+http://srvx.io:80/0467707740/fireurl.co/71887
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://srvx.io:80/0467707740/fireurl.co/71875
 #EXTINF:-1,HISTORY
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37081
+#EXTINF:-1,HISTORY FHD
+http://srvx.io:80/0467707740/fireurl.co/72146
 #EXTINF:-1,HISTORY 2
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/42915
+#EXTINF:-1,HISTORY 2
+http://srvx.io:80/0467707740/fireurl.co/72106
+#EXTINF:-1,NAT GEO WILD FHD
+http://srvx.io:80/0467707740/fireurl.co/72192
 #EXTINF:-1,NATIONAL GEOGRAPHIC
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37068
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://srvx.io:80/0467707740/fireurl.co/72196
 #EXTINF:-1,BOOMERANG
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37123
 #EXTINF:-1,CARTOON NETWORK
@@ -129,21 +207,39 @@ http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37064
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37065
 #EXTINF:-1,BAND NEWS
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37126
+#EXTINF:-1,BAND NEWS FHD
+http://srvx.io:80/0467707740/fireurl.co/71789
 #EXTINF:-1,CNN BRASIL
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/65040
 #EXTINF:-1,CNN BRASIL HD
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/65039
+#EXTINF:-1,CNN BRASIL FHD
+http://srvx.io:80/0467707740/fireurl.co/71837
 #EXTINF:-1,GLOBONEWS
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37093
 #EXTINF:-1,GLOBONEWS HD
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/36917
+#EXTINF:-1,GLOBONEWS FHD
+http://srvx.io:80/0467707740/fireurl.co/71997
 #EXTINF:-1,RECORD NEWS
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/41529
 #EXTINF:-1,A FAZENDA
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/73789
 #EXTINF:-1,TNT
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37035
+#EXTINF:-1,TNT FHD
+http://srvx.io:80/0467707740/fireurl.co/72375
 #EXTINF:-1,FOX PREMIUM
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37335
 #EXTINF:-1,FOX PREMIUM 2
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/37336
+#EXTINF:-1,CINE SKY
+http://srvx.io:80/0467707740/fireurl.co/72994
+#EXTINF:-1,CINE SKY
+http://srvx.io:80/0467707740/fireurl.co/73003
+#EXTINF:-1,CINE SKY
+
+#EXTINF:-1,CINE SKY
+
+
+
