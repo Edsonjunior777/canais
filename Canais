@@ -41,7 +41,7 @@ http://srvtv.online:2082/FelipecarlosMV1156/3481166712An/6981
 http://srvx.io:80/0467707740/fireurl.co/72114
 #EXTINF:-1 group-title="Canais Filmes e séries",HBO PLUS
 http://tv.factoryiptv.com:80/Eq3WBG0hfK/factoryiptv/36963
-#EXTINF:-1,HBO PLUS FHD
+#EXTINF:-1 group-title="Canais Filmes e séries",HBO PLUS FHD
 http://srvx.io:80/0467707740/fireurl.co/72125
 #EXTINF:-1 group-title="Canais Filmes e séries",HBO MUNDI FHD
 http://srvx.io:80/0467707740/fireurl.co/72121
@@ -65,7 +65,7 @@ http://srvx.io:80/0467707740/fireurl.co/72334
 http://sv1.nowiptv.net:8880/Jander/Jander123/32437
 #EXTINF:-1 group-title="Canais Filmes e séries",SYFY FHD
 http://srvx.io:80/0467707740/fireurl.co/72338
-#EXTINF:-1,TCM
+#EXTINF:-1 group-title="Canais Filmes e séries",TCM
 http://sv1.nowiptv.net:8880/Jander/Jander123/34012
 #EXTINF:-1 group-title="Telecines",Telecine Action
 http://pfsv.io:80/7784677077/0817/568
@@ -261,3 +261,119 @@ http://srvx.io:80/series/0467707740/fireurl.co/44857.mp4
 http://srvx.io:80/series/0467707740/fireurl.co/44858.mp4
 #EXTINF:-1 group-title="Séries Band of Brothers",BAND OF BROTHERS 2
 http://srvx.io:80/series/0467707740/fireurl.co/44859.mp4
+#EXTINF:-1 grup-title="Filmes Ação",Vingadores Guerra infinita
+https://vze.azureedge.net/movies/avengers2new-dub-720p.mp4
+#EXTINF:-1 grup-title="Filmes Ação",Vingadores Guerra Ultimato
+https://vze.azureedge.net/movies/avengersendgamenew-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Aventura",Jurassic park
+https://vze.azureedge.net/movies/jurassicworldreinoameacado-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Aventura",Dolittle
+https://vze.azureedge.net/movies/dolittle-dub-1080p.mp4
+#EXTINF:-1 group-title="Filmes Aventura",Dois irmãos e uma aventura fantástica 
+https://vze.azureedge.net/movies/doisirmaosumajornadafantastica-dub-1080p.mp4
+#EXTINF:-1 group-title="Filmes Guerra",1917
+https://vze.azureedge.net/movies/1917-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos", Parasita
+https://vze.azureedge.net/movies/parasita-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Aventura",Jumanji
+https://vze.azureedge.net/movies/jumanjiproximafase-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Drama",Coringa
+https://vze.azureedge.net/movies/coringa-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Ação", Projeto Gemini
+https://vze.azureedge.net/movies/projetogemini-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Ação",Rambo até o Fim
+https://vze.azureedge.net/movies/ramboateofim-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",Ad Astra
+https://vze.azureedge.net/movies/adastra-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",Era uma Vez em Hollywood
+https://vze.azureedge.net/movies/eraumavezemhollywood-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Terror",It a coisa 2
+https://vze.azureedge.net/movies/itcapitulodois-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",Velozes e furiosos Hobbs e shaw
+https://vze.azureedge.net/movies/hobbseshaw-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Animação",O Rei Leão
+https://vze.azureedge.net/movies/reileao-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Animação",Toy story 4
+https://vze.azureedge.net/movies/toystory4-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",Homen-aranha Longe de casa
+https://vze.azureedge.net/movies/homemaranhalongedecasa-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",X-Men Fênix Negra
+https://vze.azureedge.net/movies/fenixnegra-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Ação",John Wich 3 Parabellun
+https://vze.azureedge.net/movies/johnwick3-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Ação",Hellboy 2019
+https://vze.azureedge.net/movies/hellboy-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Ação",Godzilla 2 O Rei dos Monstros
+https://vze.azureedge.net/movies/godzilla2019-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Ação",Thor Ragnarok
+https://vze.azureedge.net/movies/thorrag-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Terror",Maria e João O conto das bruxas
+https://vze.azureedge.net/movies/mariaejoaoocontodasbruxas-dub-1080p.mp4
+#EXTINF:-1 group-title="Filmes Animação",Superman entre a Foice e o Martelo
+https://vze.azureedge.net/movies/supermanentreafoiceeomartelo-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Drama",Ford vs Ferrari
+https://vze.azureedge.net/movies/fordvsferrari-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Ação",300 A ascensão do Império
+https://vze.azureedge.net/movies/300ascensaodoimperio-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Ação",Operação Valquíria
+https://vze.azureedge.net/movies/operacaovalquiria-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",Scooby-doo o filme
+https://s3.filmezandobrasil.com/videos/filmes/tt3152592.mp4
+#EXTINF:-1 group-title="Séries Mundo mistério",Mundo mistério Episódio 1
+https://s3.filmezandobrasil.com/videos/series/106173/1x1.mp4
+#EXTINF:-1 group-title="Séries Mundo mistério",Mundo mistério Episódio 2
+https://s3.filmezandobrasil.com/videos/series/106173/1x2.mp4
+#EXTINF:-1 group-title="Séries Mundo mistério",Mundo mistério Episódio 3
+https://s3.filmezandobrasil.com/videos/series/106173/1x3.mp4
+#EXTINF:-1 group-title="Séries Mundo mistério",Mundo mistério Episódio 4
+https://s3.filmezandobrasil.com/videos/series/106173/1x4.mp4
+#EXTINF:-1 group-title="Séries Mundo mistério",Mundo mistério Episódio 5
+https://s3.filmezandobrasil.com/videos/series/106173/1x5.mp4
+#EXTINF:-1 group-title="Séries Mundo mistério",Mundo mistério Episódio 6
+https://s3.filmezandobrasil.com/videos/series/106173/1x6.mp4
+#EXTINF:-1 group-title="Séries Mundo mistério",Mundo mistério Episódio 7
+https://s3.filmezandobrasil.com/videos/series/106173/1x7.mp4
+#EXTINF:-1 group-title="Séries Mundo mistério",Mundo mistério Episódio 8
+https://s3.filmezandobrasil.com/videos/series/106173/1x8.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",Resgate 2020
+https://filmezandobrasil.com/videos/filmes/resgate.2020.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",365 dias 2020
+https://s3.filmezandobrasil.com/videos/filmes/tt10886166.mp4
+#EXTINF:-1 group-title="Filmes Ação",Bloodshot
+https://filmezandobrasil.com/videos/filmes/Bloodshot.mp4
+#EXTINF:-1 group-title="Filmes Ação",300
+https://filmezandobrasil.com/videos/filmes/300-1.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",A Barraca do Beijo 2
+https://s3.filmezandobrasil.com/videos/filmes/barracadobeijo2.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",Jojo Rabbit
+https://s3.filmezandobrasil.com/videos/filmes/tt2584384.mp4
+#EXTINF:-1 group-title="Filmes Terror",O Grito 2020
+https://filmezandobrasil.com/videos/filmes/ogrito.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",Ruas em Guerra 2020
+https://vze.azureedge.net/movies/ruasemguerra-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",Rede de Ódio 2020
+https://vze.azureedge.net/movies/rededeodio-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",Greyhound Na Mira do inimigo 2020
+https://vze.azureedge.net/movies/greyhound-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",O Grande Mestre 4
+https://s3.filmezandobrasil.com/videos/filmes/tt2076298.mp4
+#EXTINF:-1 group-title="Filmes Animação",Frozen 2 
+https://filmezandobrasil.com/videos/filmes/frozen2.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",Power Netflix
+tps://vze.azureedge.net/movies/projetopower-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",Valhala A lenda de Thor
+https://vze.azureedge.net/movies/alendadethor-dub-720p.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",Fundo do Mar 3
+http://rbs-ws.errorhttp404.ml/expires-1588293579-token-67990729636324cab382dd296547/-f-i-l-m-e-s-/703745?video.mp4
+#EXTINF:-1 group-title="Filmes Animação",Superman: O Homem do Amanhã
+http://rbs-ws.errorhttp404.ml/expires-1588293579-token-67990729636324cab382dd296547/-f-i-l-m-e-s-/618354?video.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",Uma Noite em Bangkok
+http://cdn1.fontesdiferentes.com.global.prod.fastly.net/token_a2a1696556e123fsba905858bd4a6d55/cdnespecial2/UmaNoiteEmBangkok.2020.DUB.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",Arma Secreta
+http://img3.ibxk.com.br.global.prod.fastly.net/token_b3a149c536e552fcba109858bb4a6d40/cdnespecial2/ArmaSecreta.2020.mp4
+#EXTINF:-1 group-title="Filmes Lançamentos",O Segredo de Alcatraz
+http://img3.ibxk.com.br.global.prod.fastly.net/token_b3a149c536e552fcba109858bb4a6d40/cdnespecial2/OSegredoDeAlcatraz.2020.DUB.mp4
+
+
+
+
